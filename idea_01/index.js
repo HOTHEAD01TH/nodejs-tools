@@ -1,5 +1,6 @@
 const cron = require('node-cron');
 const axios = require('axios');
+require('dotenv').config();
 process.env.TZ = "Asia/Calcutta";
 //...
 // Your telegram URI API
