@@ -1,0 +1,17 @@
+{
+  "name": "idea_01",
+  "version": "1.0.0",
+  "description": "Just another idea of salman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salman Qureshi, hotheadhacker",
+  "license": "ISC",
+  "dependencies": {
+    "@types/set-tz": "^0.2.0",
+    "axios": "^0.26.1",
+    "node-cron": "^3.0.0",
+    "set-tz": "^0.2.0"
+  }
+}
